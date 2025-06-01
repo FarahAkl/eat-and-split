@@ -19,19 +19,20 @@ A simple React app to track and split bills between friends.
 ## 📦 Installation
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/FarahAkl/eat-and-split.git
    cd eat-and-split
    ```
 
-### Install dependencies:
+2. **Install dependencies**:
 
 ```bash
 npm install
 
 ```
 
-### Run the app:
+3. **Run the app**:
 
 ```bash
 npm start
