@@ -4,7 +4,7 @@ A simple React app to track and split bills between friends.
 
 ## 🌐 Live Demo
 
-👉 [Click here to try it out](https://your-live-demo-link.com)
+👉 [Click here to try it out](https://eat-and-split-sooty.vercel.app/)
 
 ## 🧠 Features
 
@@ -31,28 +31,28 @@ A simple React app to track and split bills between friends.
 
 2. **Install dependencies**:
 
-```bash
-npm install
+    ```bash
+    npm install
 
-```
+    ```
 
 3. **Run the app**:
 
-```bash
-npm start
+    ```bash
+    npm start
 
-```
+    ```
 Open http://localhost:3000 in your browser to view the app.
 
 ## 📁 Folder Structure
 
-```bash
-src/
-├── components/ 
-├── index.js # React entry point
-└── index.css # App styling
+    ```bash
+    src/
+    ├── components/ 
+    ├── index.js # React entry point
+    └── index.css # App styling
 
-```
+    ```
 ## 🔍 Usage
 
 - Click “Add friend” to add a new person to the list.
