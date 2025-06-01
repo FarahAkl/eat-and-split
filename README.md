@@ -2,6 +2,10 @@
 
 A simple React app to track and split bills between friends.
 
+## 🌐 Live Demo
+
+👉 [Click here to try it out](https://your-live-demo-link.com)
+
 ## 🧠 Features
 
 - Add new friends with a name and image.
