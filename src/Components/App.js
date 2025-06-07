@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from './Button'
+import Button from "./Button";
 import FormAddFriend from "./FormAddFriend";
 import FormSplitBill from "./FormSplitBill";
 import FriendsList from "./FriendList";
@@ -73,7 +73,11 @@ export default function App() {
         </Button>
       </div>
       {selectedFriend && (
-        <FormSplitBill friend={selectedFriend} onSplitBill={handleSplitBill} />
+        <FormSplitBill
+          friend={selectedFriend}
+          onSplitBill={handleSplitBill}
+          key={selectedFriend.id}
+        />
       )}
     </div>
   );
